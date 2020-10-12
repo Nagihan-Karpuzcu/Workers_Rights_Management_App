@@ -1,5 +1,5 @@
 package day44_Workers_Rights_Management_App;
-
+// degisiklik
 public class Administrator {            
 		
 	private static final int instNumber = 001; // ?
